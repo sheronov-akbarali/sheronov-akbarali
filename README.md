@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><b>🚀 Technologies & Productivity</b></p>
+<p align="center"><b> Technologies & Productivity</b></p>
 
 <table align="center" border="0">
   <tr align="center">
