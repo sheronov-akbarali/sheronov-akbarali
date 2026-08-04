@@ -19,8 +19,5 @@
       <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/-REST%20API-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
     </td>
-    <td width="400" valign="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheronov-akbarali&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
   </tr>
 </table>
