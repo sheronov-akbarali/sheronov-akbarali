@@ -1,11 +1,7 @@
 # <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Sheronov+Akbarali;Full+Stack+Developer" alt="Typing SVG" /> </p>
 
 <p align="center">
-  <i>Software developer with experience in building scalable web applications and robust backend systems. Focused on <b>clean architecture</b> and <b>efficient database management</b>.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍-Tashkent%2C%20Uzbekistan-gray?style=flat-square" />
+  <i>Building scalable web applications & robust backend systems with clean architecture and efficient database management.</i>
 </p>
 
 ---
